@@ -1,4 +1,4 @@
-package KotlinBasics
+package KotlinBasics.Inheritance
 
 import kotlin.properties.ReadWriteProperty
 import kotlin.reflect.KProperty

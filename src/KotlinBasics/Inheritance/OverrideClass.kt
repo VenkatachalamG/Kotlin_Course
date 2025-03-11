@@ -1,4 +1,4 @@
-package KotlinBasics
+package KotlinBasics.Inheritance
 
 open class OverrideClass {
     open fun display() {

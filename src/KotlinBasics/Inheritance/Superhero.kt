@@ -1,4 +1,4 @@
-package KotlinBasics
+package KotlinBasics.Inheritance
 
 //primary constructor
 class Superhero(name : String, age : Int) {
