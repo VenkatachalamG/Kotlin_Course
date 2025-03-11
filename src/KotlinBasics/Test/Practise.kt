@@ -1,4 +1,4 @@
-package KotlinBasics
+package KotlinBasics.Test
 
 //fun main() {
 //    val morningNotification = 51

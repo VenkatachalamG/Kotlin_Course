@@ -1,4 +1,4 @@
-package KotlinBasics
+package KotlinBasics.Test
 
 //fun KotlinBasics.main() {
 //    var discountPercentage: Int = 0

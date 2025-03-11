@@ -1,4 +1,4 @@
-package KotlinBasics
+package KotlinBasics.Functions
 
 fun main() {
     val coins: (Int) -> String = {

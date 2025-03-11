@@ -1,4 +1,4 @@
-package KotlinBasics
+package KotlinBasics.Variables
 
 fun main() {
     /*

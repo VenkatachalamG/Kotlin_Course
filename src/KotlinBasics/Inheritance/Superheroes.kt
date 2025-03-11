@@ -1,4 +1,4 @@
-package KotlinBasics
+package KotlinBasics.Inheritance
 
 open class Superheroes(name : String, age : Int) {
     val name = name

@@ -1,4 +1,4 @@
-package KotlinBasics
+package KotlinBasics.Test
 
 class Song(val title : String, val artist : String, val year : Int, val playCount : Int) {
     val isPopular :() -> String = {

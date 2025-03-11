@@ -1,6 +1,6 @@
 @file:Suppress("PackageName")
 
-package KotlinBasics
+package KotlinBasics.SamplePrograms
 
 class Sample {
     fun display() {
