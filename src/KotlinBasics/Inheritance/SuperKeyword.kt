@@ -1,4 +1,4 @@
-package KotlinBasics
+package KotlinBasics.Inheritance
 
 open class SuperKeyword {
     open fun display() {

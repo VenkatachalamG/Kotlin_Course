@@ -1,4 +1,4 @@
-package KotlinBasics
+package KotlinBasics.Inheritance
 
 class MarvelHero(name : String, age : Int) {
     val hName = name

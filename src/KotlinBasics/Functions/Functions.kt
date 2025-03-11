@@ -1,4 +1,4 @@
-package KotlinBasics
+package KotlinBasics.Functions
 
 //function with a return type
 //fun nameOfUser (name : String) : String {

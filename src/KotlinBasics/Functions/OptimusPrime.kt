@@ -1,4 +1,4 @@
-package KotlinBasics
+package KotlinBasics.Functions
 
 class OptimusPrime {
     val status = "engage"

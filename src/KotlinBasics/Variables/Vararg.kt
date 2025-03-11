@@ -1,4 +1,4 @@
-package KotlinBasics
+package KotlinBasics.Variables
 
 fun sum(message : String, vararg num : Int){
     for (nums in num) {
